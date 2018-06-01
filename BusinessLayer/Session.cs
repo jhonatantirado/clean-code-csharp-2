@@ -1,8 +1,5 @@
 ﻿namespace BusinessLayer
 {
-    /// <summary>
-    /// Represents a single conference session
-    /// </summary>
     public class Session
 	{
 		public string Title { get; set; }
